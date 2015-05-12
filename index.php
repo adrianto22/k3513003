@@ -2,7 +2,7 @@
 
 //adriyanto
 //K3513003
-//PTIK
+
 // K3513005
 // Ahmad Fauzan Aji
 /*
